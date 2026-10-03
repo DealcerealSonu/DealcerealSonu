@@ -1,94 +1,94 @@
 <div align="center">
 
-👋 Hi, I'm Sonu Chaudhari
-AI Automation Specialist · AI Agents · Python · Workflow Automation
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+AI-powered+automation+systems;AI+Agents+%7C+PydanticAI+%7C+n8n;Python+%7C+FastAPI+%7C+Playwright;Turning+repetitive+work+into+automation+%E2%9A%A1" alt="Typing animation" />
+# Hi, I'm Sonu Chaudhari 👋
 
+### I build AI agents and automation systems that replace repetitive business work
 
- 
- 
- 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+Agents+%7C+PydanticAI+%7C+n8n;Python+%7C+FastAPI+%7C+Playwright;Founder+of+Filexly+%E2%80%94+QR+document+collection" alt="Typing animation" />
+
+<br/>
+
+[![Website](https://img.shields.io/badge/Website-sonuchaudhari.com-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.sonuchaudhari.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sonu%20Chaudhari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sonu-chaudhari-6736b7236)
+
 </div>
 
-🤖 About Me
-I build practical AI automation systems, AI agents, and workflow automations that turn repetitive business processes into reliable automated workflows.
-My work focuses on:
-- 🧠 AI Agents, LLMs & Tool Calling
-- ⚙️ Workflow & Business Process Automation
-- 🐍 Python backend automation
-- 🌐 Browser automation & data extraction
-- 📄 Document processing & PDF automation
-- 🔗 APIs, Webhooks & third-party integrations
-- 🚀 Deployment with Docker, Linux & VPS
-🧠 Tech Stack
-AI & Agent Development
- 
- 
- 
- 
- 
-Automation & Backend
- 
- 
- 
- 
- 
-Browser Automation & Data
- 
- 
- 
- 
-Database & Infrastructure
- 
- 
- 
- 
- 
- 
-🚀 Featured Projects
-📁 Filexly — Privacy-Focused QR Document Sharing
-Filexly is a QR-based document sharing platform designed for cyber cafes, offices, and service counters.
-Users can upload documents through a QR code without sharing their phone number, making document collection faster while protecting personal data.
-Highlights:
-- 🔗 QR-based file upload
-- 🔐 Privacy-first document sharing
-- 📄 Secure file handling
-- ⚡ Fast document delivery
-- 🏢 Designed for cyber cafes, offices & service counters
-🌐 Visit Filexly
-⚙️ Automated Email Workflow — n8n
-Built an automated reporting workflow that sends reports to 20+ plant sites based on predefined rules and schedules.
-Built with:
-n8n · Gmail · Scheduling Logic · Error Handling
-The automation reduced manual reporting work by approximately 90%.
-🪪 Membership Automation Platform
-Designed and developed an end-to-end membership automation platform with:
-- Automated member onboarding
-- Supabase data storage
-- PDF ID card generation
-- n8n workflow automation
-- Telegram communication automation
-🔧 What I Like Building
-AI Agents
+---
+
+## 🤖 About
+
+I'm a founder and solo builder based in Hyderabad. I design AI agents, workflow automations and Python backends that take manual, error-prone processes and turn them into reliable, measurable systems.
+
+I also run **[E4E Service](https://e4eservice.in)**, a small agency that builds websites and automations for clients.
+
+**What I work on:**
+- AI agents with LLMs and tool calling (PydanticAI)
+- Business process automation (n8n, webhooks, APIs)
+- Browser automation and data extraction (Playwright)
+- Document and PDF processing pipelines
+- Deployment on Docker, Linux and VPS
+
+---
+
+## 🚀 Featured Projects
+
+### 📁 [Filexly](https://filexly.com) — QR-based document collection for small businesses
+
+Customers scan a QR code and upload documents directly. **No phone number sharing, no WhatsApp back-and-forth.** Built for cyber cafes, print shops, hotels, hospitals and CSC centers across India.
+
+`QR upload` · `Privacy-first` · `Secure file handling` · `Instant delivery to the counter`
+
+### ⚙️ Automated Reporting Workflow (n8n)
+
+Scheduled, rule-based report delivery to **20+ plant sites** with error handling and retries.
+**Result: ~90% reduction in manual reporting work.**
+
+`n8n` · `Gmail` · `Scheduling logic` · `Error handling`
+
+### 🪪 Membership Automation Platform
+
+End-to-end flow from member onboarding to ID card delivery, fully automated.
+
+`n8n` · `Supabase` · `PDF ID card generation` · `Telegram automation`
+
+---
+
+## 🧠 Tech Stack
+
+| Area | Tools |
+|------|-------|
+| **AI & Agents** | PydanticAI, LLMs, RAG, Prompt Engineering, Pinecone |
+| **Backend** | Python, FastAPI, REST APIs, Webhooks |
+| **Automation** | n8n, Playwright, Chromium, PDFPlumber |
+| **Data & Infra** | PostgreSQL, Supabase, Docker, Linux, Git/GitHub |
+
+---
+
+## 🔧 How I Work
+
+```text
+Find the manual process
    ↓
-Tool Calling + APIs
+Map it to APIs, agents and tools
    ↓
-Automation Workflows
+Automate it with proper error handling
    ↓
-Data / Documents / Browser Automation
-   ↓
-Reliable Business Process
-I enjoy finding repetitive manual processes and turning them into automated, measurable workflows.
-🎓 Education
-Bachelor of Commerce (B.Com)
-Lalit Narayan Mithila University, Darbhanga, India
-2020 – 2023
+Measure the time saved
+```
+
+---
+
+## 🎓 Education
+
+B.Com — Lalit Narayan Mithila University, Darbhanga (2020–2023)
+
+---
+
 <div align="center">
 
-⚡ Let's Build Something Automated
- 
- 
+### ⚡ Have a repetitive process eating your team's time? Let's automate it.
 
-<img src="https://komarev.com/ghpvc/?username=DealcerealSonu&style=flat-square&color=blue" alt="Profile views" />
+[![Website](https://img.shields.io/badge/🌐_Website-sonuchaudhari.com-111827?style=for-the-badge)](https://www.sonuchaudhari.com/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge)](https://linkedin.com/in/sonu-chaudhari-6736b7236)
 
 </div>
