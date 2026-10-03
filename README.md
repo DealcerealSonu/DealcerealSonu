@@ -17,9 +17,9 @@
 
 ## 🤖 About
 
-I'm a founder and solo builder based in Hyderabad. I design AI agents, workflow automations and Python backends that take manual, error-prone processes and turn them into reliable, measurable systems.
+I'm a solo builder based in Bengaluru. I design AI agents, workflow automations and Python backends that take manual, error-prone processes and turn them into reliable, measurable systems.
 
-I also run **[E4E Service](https://e4eservice.in)**, a small agency that builds websites and automations for clients.
+I also run **[E4E Service](https://e4eservice.com)**, a small agency that builds websites and automations for clients.
 
 **What I work on:**
 - AI agents with LLMs and tool calling (PydanticAI)
